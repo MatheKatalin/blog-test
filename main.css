@@ -1,7 +1,3 @@
-* {
-  box-sizing: border-box;
-}
-
 /* ==== A SIMPLE CSS RESET FROM ERIC MEYER ==== */
 
 html,
@@ -142,6 +138,9 @@ table {
 }
 */
 /* ==== BASE STYLES ==== */
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: "Crimson Pro", "Times New Roman", serif;
